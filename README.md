@@ -15,3 +15,7 @@ The most challenging aspect of the vulnerability assessment was understanding th
 # How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
 I ensured that the application utilized the latest API and library versions. For example, I upgraded the Spring Boot framework from 2.2.4.Release to 3.0.3. Upgrading the main framework mitigated  over ninety vulnerabilities.
+
+# How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+
+I ensured the code was deployed without errors to ensure the software application was functional. I opened up the web application in a web browser on my computer and ensured that HTTPS was enabled and the connection was secure to ensure the software application was secure. 
