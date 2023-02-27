@@ -19,3 +19,12 @@ I ensured that the application utilized the latest API and library versions. For
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
 I ensured the code was deployed without errors to ensure the software application was functional. I opened up the web application in a web browser on my computer and ensured that HTTPS was enabled and the connection was secure to ensure the software application was secure. 
+
+#	What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+The Maven Project Manager was handy because of my computer's different Java versions. Managing various dependencies was straightforward and efficient. The Maven Dependency-Check Plug-In is also a valuable feature for scanning projects and software applications to identify vulnerabilities. I liked how the Dependency-Check report provided links and information about vulnerabilities. I learned a lot from the OWASP Maven Dependency-Check and OWASP Secure Coding Quick Reference Guide.
+
+# Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I will show future employers that I value secure coding practices, and software security will always be in mind while designing and developing code. I can also show them my experience with continuous integration tools and project managers. I can demonstrate the skills I gained in manual code review and static security testing techniques to identify and mitigate security vulnerabilities and threats.
+
